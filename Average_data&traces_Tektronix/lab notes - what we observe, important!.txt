@@ -1,0 +1,12 @@
+In the dotted version of the light waveform, we see that the sampling on raman returns seem 
+pretty nice, the peak is quite obvious. However, when we look at the Pulse (channel 1), it seems 
+like it may be undersampled. Have no comment on Green channel because I cant really see it with 
+safety glasses on.
+
+Same kind of idea with the dark version ^.
+
+There is not an enormous amount of difference between the 2 plots. However, there are lots of 
+ringing in the green channel and a small amount of ringing in channel 1. The ringing doesn't seem 
+to change when we turn the lights off.
+
+IMPORTANT TO NOTE THAT I DIDNT EVEN HAVE THE FLASHLIGHT FROM MY PHONE ON.
