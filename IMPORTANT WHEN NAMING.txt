@@ -1,2 +1,0 @@
-When naming different columns, refer to the second last page of comp1010! Don't just name them 
-whatever you want!!
